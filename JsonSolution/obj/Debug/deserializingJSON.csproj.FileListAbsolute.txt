@@ -1,0 +1,24 @@
+D:\Visual Studio Projects\JsonSolution\JsonSolution\bin\Debug\JsonSolution.exe.config
+D:\Visual Studio Projects\JsonSolution\JsonSolution\bin\Debug\JsonSolution.exe
+D:\Visual Studio Projects\JsonSolution\JsonSolution\bin\Debug\JsonSolution.pdb
+D:\Visual Studio Projects\JsonSolution\JsonSolution\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects\JsonSolution\JsonSolution\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\JsonSolution.Form1.resources
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\JsonSolution.Properties.Resources.resources
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\deserializingJSON.csproj.GenerateResource.cache
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\deserializingJSON.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\deserializingJSON.csproj.CopyComplete
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\JsonSolution.exe
+D:\Visual Studio Projects\JsonSolution\JsonSolution\obj\Debug\JsonSolution.pdb
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\bin\Debug\JsonSolution.exe.config
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\bin\Debug\JsonSolution.exe
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\bin\Debug\JsonSolution.pdb
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\JsonSolution.Form1.resources
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\JsonSolution.Properties.Resources.resources
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\deserializingJSON.csproj.GenerateResource.cache
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\deserializingJSON.csproj.CoreCompileInputs.cache
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\deserializingJSON.csproj.CopyComplete
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\JsonSolution.exe
+D:\GitHub\Code36u4r60\CSharp\deserializingJSON\deserializingJSON\JsonSolution\obj\Debug\JsonSolution.pdb
